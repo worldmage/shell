@@ -1,2 +1,5 @@
 # shell
-2019 commit
+about:
+docker
+ngrok
+cobbler
